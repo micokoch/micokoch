@@ -1,4 +1,4 @@
-### álvaro j. castro rivadeneira  
+### [álvaro j. castro rivadeneira](https://micokoch.github.io/micokoch/)  
 
 - PhD student in epidemiology at the University of Massachusetts, Amherst working on inequality and gambling harms.
 - Born in Quito, Ecuador and have lived in seven countries across five continents.
