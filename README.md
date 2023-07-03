@@ -1,5 +1,8 @@
-### álvaro j. castro rivadeneira
-I am a PhD student in epidemiology at the University of Massachusetts, Amherst working on inequality and gambling harms. I received my MD from Universidad Internacional del Ecuador, and a BSc in Biochemistry from McGill University.
+### álvaro j. castro rivadeneira  
+
+- I am a PhD student in epidemiology at the University of Massachusetts, Amherst working on inequality and gambling harms.
+- I was born in Quito, Ecuador and have lived in seven countries across five continents.
+- I received my Medical Doctor degree from Universidad Internacional del Ecuador, and a BSc in Biochemistry from McGill University.
 
 <!--
 **micokoch/micokoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
