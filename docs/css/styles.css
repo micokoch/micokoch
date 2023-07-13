@@ -38,6 +38,10 @@ ul.posts {
     font-size: 1.5em;
 }
 
+ul.posts li {
+    list-style: none;
+}
+
 blockquote
 {
   font-style:normal;
@@ -47,8 +51,4 @@ blockquote
   background:url('/css/images/blockquote.png');
   background-repeat:no-repeat;
   min-height: 30px;  
-}
-
-ul.posts li {
-    list-style: none;
 }
