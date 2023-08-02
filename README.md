@@ -1,4 +1,4 @@
-### [álvaro j. castro rivadeneira](https://micokoch.github.io/micokoch/)  
+### [álvaro j. castro rivadeneira](https://micokoch.github.io/)  
 
 - PhD student in epidemiology at the University of Massachusetts, Amherst working on inequality and gambling harms.
 - Born in Quito, Ecuador and have lived in seven countries across five continents.
@@ -6,6 +6,8 @@
 - Currently working with the [Social and Economic Impacts of Gambling](https://www.umass.edu/seigma/) and the [Reich Lab](https://reichlab.io/) on various projects.
 - Most of the time, I work on my dissertation.
 - I use `R` for the majority of my work.
+- Some favorites: Noam Chomsky ("Perspectives on Power"), Arundhati Roy ("The End of Imagination"), Ursula K. Le Guin ("Earthsea"), "Looking on Darkness" (André Brink), David Graeber ("Debt"), Amy Goodman ("Democracy Now!"), Matilde Hidalgo, Bertrand Russell ("Logicomix"), "El laberinto del fauno" (Ofelia), John Coltrane (Naíma), "Ratas, ratones, rateros" (Sebastián Cordero), "Qué tan lejos" (Tania Hermida), "Manufacturing Consent" (the movie), "My life without me" (Isabel Coixet), mountains (especially high ones, but not too technical), jogging (listening to podcasts), bicycling, Sal y Mileto, Ana Tijoux, Rarefacción, Claudia Acuña, Guardarraya, Silvana Estrada, Elina Duni.
+- [Here](https://micokoch.github.io/micokoch/)
 
 <!--
 **micokoch/micokoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
