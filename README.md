@@ -1,12 +1,12 @@
-### [álvaro j. castro rivadeneira](https://micokoch.github.io/)  
+### 👋🏽 Hello, my name is [álvaro](https://micokoch.github.io/)  
 
-- PhD student in epidemiology at the University of Massachusetts, Amherst working on inequality and gambling harms.
-- Born in Quito, Ecuador and have lived in seven countries across five continents.
-- Obtained a BSc in Biochemistry from McGill University and a Medical Doctor degree from Universidad Internacional del Ecuador
-- Currently working with the [Social and Economic Impacts of Gambling](https://www.umass.edu/seigma/) and the [Reich Lab](https://reichlab.io/) on various projects.
-- Most of the time, I work on my dissertation.
-- I use `R` for the majority of my work.
-- Some favorites: Noam Chomsky ("Perspectives on power"), Arundhati Roy ("The end of imagination"), Galo Galarza ("La dama es una trampa"), Ursula K. Le Guin ("Earthsea"), "Looking on darkness" (André Brink), "La casa de los espíritus" (Isabel Allende), David Graeber ("Debt"), "Lucha política y origen de los partidos en Ecuador" (Enrique Ayala Mora), Barbara Ehrenreich ("This land is their land"), Amy Goodman ("Democracy Now!"), Matilde Hidalgo, Bertrand Russell ("Logicomix"), John Coltrane (Naíma), "El laberinto del fauno" (Ofelia), Sal y Mileto (Anaís), montañas y cerros (Montserrat), "Ratas, ratones, rateros" (Sebastián Cordero), "Qué tan lejos" (Tania Hermida), "Manufacturing Consent" (the movie), "My life without me" (Isabel Coixet), jogging (listening to podcasts), bicycling, beer and wine, Ana Tijoux, Rarefacción, Claudia Acuña, Guardarraya, Silvana Estrada, Elina Duni...  
+- 🎰 PhD student in epidemiology at the University of Massachusetts, Amherst working on inequality and gambling harms.
+- 🇪🇨 Born in Quito, Ecuador and have lived in seven countries across five continents.
+- ⚕️ Obtained a BSc in Biochemistry from McGill University and a Medical Doctor degree from Universidad Internacional del Ecuador
+- 💻 Currently working with the [Social and Economic Impacts of Gambling](https://www.umass.edu/seigma/) and the [Reich Lab](https://reichlab.io/) on various projects.
+- ⏳ Most of the time, I work on my dissertation.
+- 🇷 I use `R` for the majority of my work.
+- 😍 Some favorites: Noam Chomsky ("Perspectives on power"), Arundhati Roy ("The end of imagination"), Galo Galarza ("La dama es una trampa"), Ursula K. Le Guin ("Earthsea"), "Looking on darkness" (André Brink), "La casa de los espíritus" (Isabel Allende), David Graeber ("Debt"), "Lucha política y origen de los partidos en Ecuador" (Enrique Ayala Mora), Barbara Ehrenreich ("This land is their land"), Amy Goodman ("Democracy Now!"), Matilde Hidalgo, Bertrand Russell ("Logicomix"), John Coltrane (Naíma), "El laberinto del fauno" (Ofelia), Sal y Mileto (Anaís), montañas y cerros (Montserrat), "Ratas, ratones, rateros" (Sebastián Cordero), "Qué tan lejos" (Tania Hermida), "Manufacturing Consent" (the movie), "My life without me" (Isabel Coixet), jogging (listening to podcasts), bicycling, beer and wine, Ana Tijoux, Rarefacción, Claudia Acuña, Guardarraya, Silvana Estrada, Elina Duni...  
 
 [![álvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=micokoch)](https://github.com/anuraghazra/github-readme-stats)
 
