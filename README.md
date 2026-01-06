@@ -8,9 +8,9 @@
 - 🇷 I use `R` for the majority of my work.
 - 😍 Some favorites: Noam Chomsky ("Perspectives on power"), Arundhati Roy ("The end of imagination"), Galo Galarza ("La dama es una trampa"), Ursula K. Le Guin ("Earthsea" & "Dispossessed"), "Looking on darkness" (André Brink), "La casa de los espíritus" (Isabel Allende), David Graeber ("Debt"), AOC, "Lucha política y origen de los partidos en Ecuador" (Enrique Ayala Mora), Barbara Ehrenreich, Amy Goodman ("Democracy Now!"), Matilde Hidalgo, Bertrand Russell ("Logicomix"), John Coltrane (Naíma), "El laberinto del fauno" (Ofelia), Sal y Mileto (Anaís), montañas y cerros (Montserrat), MGPG, Shevek, "Ratas, ratones, rateros" (Sebastián Cordero), "Qué tan lejos" (Tania Hermida), "Manufacturing Consent" (the movie), "My life without me" (Isabel Coixet), jogging (listening to podcasts), bicycling, beer and wine, Ana Tijoux, Rarefacción, Claudia Acuña, Guardarraya, Silvana Estrada, Elina Duni...  
 
+<!--
 [![álvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=micokoch)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 - [Here](https://micokoch.github.io/micokoch/)
 **micokoch/micokoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
